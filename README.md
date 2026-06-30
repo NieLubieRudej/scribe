@@ -1,5 +1,6 @@
 # scribe
 
+[![CI](https://github.com/NieLubieRudej/scribe/actions/workflows/ci.yml/badge.svg)](https://github.com/NieLubieRudej/scribe/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue)
 ![Platform: macOS Apple Silicon](https://img.shields.io/badge/platform-macOS%20Apple%20Silicon-black)
